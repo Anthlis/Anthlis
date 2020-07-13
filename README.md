@@ -1,6 +1,6 @@
 ```python
-print("Hello there!")
-```👋
+print("Hello there!")👋
+```
 
 This is my GiHub repository where I keep all my adventures in Python, Flask and web design projects together. 
 I'm a huge fan of [Talk Python Training](https://training.talkpython.fm/) courses, and completing [PyBites](https://codechalleng.es/) Code Challenges, so expect to see a few forked repos and work belonging to these endeavours. 
