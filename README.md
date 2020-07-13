@@ -1,7 +1,7 @@
 ```python
 print("Hello there!")👋
 ```
-My interests include: 
+My interests include: <br>
 👨🏼‍💻Python & web, 📡electronics engineering, ✈️ flying a Piper Supercub, 🚲 cycling, 🌎 space and 🚀rockets, 🌩 storm chasing
 
 This is my GitHub repository where I keep all my adventures in Python, Flask and software for controlling hardware projects together for my interests above. 
