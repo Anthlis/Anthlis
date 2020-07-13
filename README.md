@@ -14,10 +14,9 @@ As a qualified and experienced electronics and electrical engineer, I also enjoy
 
 I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io) <a href="https://anthlis.github.io"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/blog.png?raw=true"></a>
 
-I write about things that I am learning. 
-
-What i am learning/working on these days:
+__What i am learning/working on these days:__
    - Python
+   - PyBites Bites (working towards my next belt)
    - Building awesome web apps in Flask
    - Blogging (learning, Code Club, MicroPython, etc)
    - Swift / SwiftUI
