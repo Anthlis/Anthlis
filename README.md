@@ -20,6 +20,9 @@ __What i am learning/working on these days:__
    - Building awesome web apps in Flask
    - Blogging (learning, Code Club, MicroPython, etc)
    - Swift / SwiftUI
+   
+ __Achievements:__
+   - TalkPython/PyBites 100daysofcode survivor July 2019
 
 ![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])
 
