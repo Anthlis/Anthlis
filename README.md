@@ -25,6 +25,7 @@ __What i am learning/working on these days:__
    - TalkPython/PyBites 100daysofcode survivor July 2019
 
 <p>
+   
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://visitor-badge.glitch.me/badge?page_id=anthlis.visitor-badge"/> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/anthlis?style=social">
