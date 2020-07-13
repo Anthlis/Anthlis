@@ -1,4 +1,4 @@
-### hello there! 👋
+### Hello there! 👋
 
 This is my GiHub repository where I keep all my adventures in Python, Flask and web design projects together. I'm an advocate of Talk Python Training courses, and completing PyBites Bites and Code Challenges, so expect to see a few forked repos and work belonging to these endeavours. As an educated electronics and electrical engineer, I also enjoy making things using MicroPython flashed to PyBoards, WiPy, PyCom modules and ESP embedded devices. 
 
@@ -23,6 +23,7 @@ What i am learning/working on these days:
 ![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])
 
 <p>
+   
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://visitor-badge.glitch.me/badge?page_id=anthlis.visitor-badge"/> 
 </p>
