@@ -7,11 +7,11 @@ This is my GiHub repository where I keep all my adventures in Python, Flask and 
 <a href="https://twitter.com/anthlis"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anthonylister/"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:anthony.lister@gmail.com"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/mail.PNG?raw=true"></a>
-<a href="https://anthlis.github.io"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/blog.png?raw=true"></a>
+
 </p>
 
 
-I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io)
+I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io) <p><a href="https://anthlis.github.io"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/blog.png?raw=true"></a></p>
 
 I write about things that I am learning. 
 
