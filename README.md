@@ -24,9 +24,8 @@ __What i am learning/working on these days:__
  __Achievements:__
    - TalkPython/PyBites 100daysofcode survivor July 2019
 
-<p align='center'>
-![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])
-</p>
+<p style="text-align: center;">![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])</p>
+
 
 <p>
    
