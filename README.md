@@ -24,11 +24,9 @@ __What i am learning/working on these days:__
  __Achievements:__
    - TalkPython/PyBites 100daysofcode survivor July 2019
 
-<p style="text-align: center;">![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])</p>
+![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])
 
-
-<p>
-   
+<p>   
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://visitor-badge.glitch.me/badge?page_id=anthlis.visitor-badge"/> 
 </p>
