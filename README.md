@@ -10,23 +10,19 @@ This is my GiHub repository where I keep all my adventures in Python, Flask and 
 
 </p>
 
-
-I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io) <p><a href="https://anthlis.github.io"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/blog.png?raw=true"></a></p>
+I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io) <a href="https://anthlis.github.io"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/blog.png?raw=true"></a>
 
 I write about things that I am learning. 
 
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-   - Python <br/>
-   - Building something awesome in Flask <br/>
-   - Blogging (learning, Code Club, STEM, etc) <br/>
+What i am learning/working on these days:
+   - Python
+   - Building something awesome in Flask
+   - Blogging (learning, Code Club, STEM, etc)
    - Swift / SwiftUI
-</details>
 
 ![anthlis's github stats](https://github-readme-stats.vercel.app/api?username=anthlis&show_icons=true&hide=["prs","issues","contribs"])
 
 <p>
- 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://visitor-badge.glitch.me/badge?page_id=anthlis.visitor-badge"/> 
 </p>
