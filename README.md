@@ -12,7 +12,7 @@ As a qualified and experienced electronics and electrical engineer, I also enjoy
 
 </p>
 
-I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io) <a href="https://anthlis.github.io"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/blog.png?raw=true"></a>
+I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io)
 
 __What i am learning/working on these days:__
    - Python
