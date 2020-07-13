@@ -22,7 +22,7 @@ __What I am learning/working on these days:__
    - Swift / SwiftUI
    
  __Achievements:__
-   - TalkPython/PyBites 100daysofcode survivor July 2019
+   - TalkPython/PyBites #100daysofcode survivor, July 2019
 
 <p>
    
