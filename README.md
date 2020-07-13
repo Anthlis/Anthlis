@@ -2,7 +2,7 @@
 print("Hello there!")👋
 ```
 My interests include: 
-👨🏼‍💻#Python & web, 📡electronics engineer, ✈️ Piper Supercub pilot #avgeek, 🚲 #cycling, 🌎 space and 🚀rockets fanatic, 🌩 wannabe storm chaser
+👨🏼‍💻Python & web, 📡electronics engineering, ✈️ flying a Piper Supercub, 🚲 cycling, 🌎 space and 🚀rockets, 🌩 storm chasing
 
 This is my GitHub repository where I keep all my adventures in Python, Flask and software for controlling hardware projects together for my interests above. 
 I'm a huge fan of [Talk Python Training](https://training.talkpython.fm/) courses, and completing [PyBites](https://codechalleng.es/) Code Challenges, so expect to see a few forked repos and work belonging to these endeavours. 
