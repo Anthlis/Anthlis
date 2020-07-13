@@ -12,9 +12,9 @@ As a qualified and experienced electronics and electrical engineer, I also enjoy
 
 </p>
 
-I write regular blog posts, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io)
+I sometimes write blog posts about my learning, most of which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io)
 
-__What i am learning/working on these days:__
+__What I am learning/working on these days:__
    - Python
    - PyBites Bites (working towards my next belt)
    - Building awesome web apps in Flask
