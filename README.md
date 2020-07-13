@@ -23,6 +23,7 @@ __What I am learning/working on these days:__
    
  __Achievements:__
    - TalkPython/PyBites #100daysofcode survivor, July 2019
+   - PyBites Blue Ninja Belt (>250 points), January 2020
 
 <p>
    
