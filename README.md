@@ -1,7 +1,7 @@
 ```python
 print("Hello there!")👋
 ```
-My Twitter bio describes my interests best: 
+My interests include: 
 👨🏼‍💻#Python developer, 📡electronics engineer, ✈️ Piper Supercub pilot #avgeek, 🚲 #cyclist, 🌎 space and 🚀rockets fanatic, 🌩 wannabe storm chaser
 
 This is my GitHub repository where I keep all my adventures in Python, Flask and software for controlling hardware projects together for my interests above. 
