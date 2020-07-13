@@ -5,7 +5,7 @@ I'm a huge fan of [Talk Python Training](https://training.talkpython.fm/) course
 As a qualified and experienced electronics and electrical engineer, I also enjoy making things using MicroPython flashed to PyBoards, WiPy, PyCom modules and ESP embedded devices. 
 
 <p align='center'>
-<a href="https://codechalleng.es/profiles/anthlis.com"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/pybites.png?raw=true"></a>
+<a href="https://codechalleng.es/profiles/Anthlis"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/pybites.png?raw=true"></a>
 <a href="https://twitter.com/anthlis"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anthonylister/"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:anthony.lister@gmail.com"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/mail.PNG?raw=true"></a>
