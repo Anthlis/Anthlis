@@ -1,5 +1,5 @@
 ```python
-print("Hello there!")👋
+print("Hello there!") # 👋
 ```
 My interests include: <br>
 👨🏼‍💻Python & web, 📡electronics engineering, ✈️ flying a Piper Supercub, 🚲 cycling, 🌎 space and 🚀rockets, 🌩 storm chasing
@@ -28,11 +28,3 @@ __What I am learning/working on these days:__
  __Achievements:__
    - TalkPython/PyBites #100daysofcode survivor, July 2019
    - PyBites Blue Ninja Belt (>250 points), January 2020
-
-<p>
-   
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://visitor-badge.glitch.me/badge?page_id=anthlis.visitor-badge"/> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/anthlis?style=social">
-</p>
-
