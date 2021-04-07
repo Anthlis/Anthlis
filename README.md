@@ -16,11 +16,11 @@ As a qualified and experienced electrical and electronics engineer, I also enjoy
 
 </p>
 
-I sometimes write blog posts about my learning, which you will find on my personal blog [anthlis.github.io](https://anthlis.github.io)
+I sometimes write blog posts about my learning, which you will find on my personal blog [anthlis.github.io][blog], 
 
 __What I am learning/working on these days:__
-   - Python
-   - PyBites Bites (working towards my next belt)
+   - Python, there's always more to learn!
+   - PyBites Bites (working towards my next achievement belt)
    - Building awesome web apps in Flask
    - Blogging (learning, Code Club, MicroPython, etc)
    - Swift / SwiftUI
@@ -28,3 +28,5 @@ __What I am learning/working on these days:__
  __Achievements:__
    - TalkPython/PyBites #100daysofcode survivor, July 2019
    - PyBites Blue Ninja Belt (>250 points), January 2020
+
+[blog](https://anthlis.github.io)
