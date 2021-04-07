@@ -4,29 +4,18 @@ print("Hello there!") # 👋
 My interests include: <br>
 👨🏼‍💻Python & web, 📡electronics engineering, ✈️ flying a Piper Supercub, 🚲 cycling, 🌎 space and 🚀rockets, 🌩 storm chasing
 
-This is my GitHub repository where I keep all my adventures in Python, Flask and software for controlling hardware projects together for my interests above. 
-I'm a huge fan of [Talk Python Training](https://training.talkpython.fm/) courses, and completing [PyBites](https://codechalleng.es/) Code Challenges, so expect to see a few forked repos and work belonging to these endeavours. 
+This is my GitHub repository where I keep all my adventures in Python web stuff and software for controlling hardware projects together for my interests above. 
+I'm a huge fan of [Talk Python Training](https://training.talkpython.fm/) courses, and completing [PyBites](https://codechalleng.es/) Code Challenges, so expect to see a few forked repos and work belonging to these endeavours.  
+
 As a qualified and experienced electrical and electronics engineer, I also enjoy making things using MicroPython flashed to PyBoards, WiPy, PyCom modules and ESP embedded devices. 
-
-<p align='center'>
-<a href="https://codechalleng.es/profiles/Anthlis"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/pybites.png?raw=true"></a>
-<a href="https://twitter.com/anthlis"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anthonylister/"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:antspam27@gmail.com"><img height="30" src="https://github.com/anthlis/anthlis/blob/master/mail.PNG?raw=true"></a>
-
-</p>
-
-I sometimes write blog posts about my learning, which you will find on my personal blog [anthlis.github.io][blog], 
 
 __What I am learning/working on these days:__
    - Python, there's always more to learn!
    - PyBites Bites (working towards my next achievement belt)
-   - Building awesome web apps in Flask
-   - Blogging (learning, Code Club, MicroPython, etc)
+   - Building awesome API's & web apps in Flask but more frequently using FastAPI now 
+   - Blogging (about my ongoing Python projects, Code Club, MicroPython, etc)
    - Swift / SwiftUI
    
  __Achievements:__
    - TalkPython/PyBites #100daysofcode survivor, July 2019
    - PyBites Blue Ninja Belt (>250 points), January 2020
-
-[blog](https://anthlis.github.io)
