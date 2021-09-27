@@ -20,4 +20,4 @@ __What I am learning/working on these days:__
    - TalkPython/PyBites #100daysofcode survivor, July 2019
    - PyBites Blue Ninja Belt (>250 points), January 2020
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anthlis" alt="anthlis" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anthlis" alt="anthlis" /> </p>
